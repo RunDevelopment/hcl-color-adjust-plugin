@@ -31,3 +31,7 @@ The Add slider is mostly useful for some minor adjustments in combination with t
 ### a*, b*
 
 These sliders add to the a\* and b\* components of L\*a\*b\* colors respectively. They adjust the magenta-green and cyan-red amounts of the image respectively.
+
+## Development
+
+This plugin is developed using [CodeLab](https://boltbait.com/pdn/CodeLab/).
