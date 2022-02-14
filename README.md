@@ -6,9 +6,13 @@ This is a Paint.net plugin that adjust the color an image using HCL/L\*a\*b\* co
 
 1. Download `hclcolor.zip` from the [release page](https://github.com/RunDevelopment/hcl-color-adjust-plugin/releases).
 2. Unzip `hclcolor.zip`.
-3. Either open `Install_hclcolor.bat` or drag'n'drop `hclcolor.dll` in the `Effects` directory of your Paint.net installation.
+3. Either
+	- Open `Install_hclcolor.bat` or
+	- Drag'n'drop `hclcolor.dll` in the `Effects` directory of your Paint.net installation.
 
 ## Usage
+
+![Screenshot](screenshot.png)
 
 ### Hue
 
